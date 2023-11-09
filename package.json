@@ -8,5 +8,19 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afuadlabib/course-green-smart-BE-service-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afuadlabib/course-green-smart-BE-service-course/issues"
+  },
+  "homepage": "https://github.com/afuadlabib/course-green-smart-BE-service-course#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {}
 }
